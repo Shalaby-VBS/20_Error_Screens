@@ -1,15 +1,13 @@
-# 20 Error Screens
+# 🏵 20 Error Screens
 
-Simple UI Screens With Simplified Animations 👍
+Simple UI Screen Without Any Dependencies 👍
 
-## Getting Started
+## 🚀 Getting Started
 
 This project is a starting point for a Flutter application.
 
-## UI
+## 📱 UI
 
-![code_2022-19-11-33-23](https://github.com/AGShalaby/20_Error_Screens/assets/144217924/da25f06b-95a6-4d75-afcf-50939b2ddfda)
-
-## Dependencies
-
-🚫 No Dependencies
+<p align="center">
+  <img src="https://github.com/Shalaby-VBS/20_Error_Screens/assets/149938388/360b5dd6-7665-4d56-a470-6bc45bef7be8"/>
+</p>
